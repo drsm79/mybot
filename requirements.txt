@@ -14,7 +14,7 @@ daemonize==2.2.1
 dnspython==1.11.1
 err==2.0.0
 irc==8.5.4
-pyOpenSSL==0.13.1
+pyOpenSSL==17.5.0
 pyimgur==0.5.2
 python-dateutil==2.2
 requests==2.2.1
