@@ -17,7 +17,7 @@ irc==8.5.4
 pyOpenSSL==17.5.0
 pyimgur==0.5.2
 python-dateutil==2.2
-requests==2.2.1
+requests==2.20.0
 six==1.5.2
 waitress==0.8.8
 wsgiref==0.1.2
