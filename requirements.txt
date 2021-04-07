@@ -8,7 +8,7 @@ WebTest==2.0.14
 Yapsy==1.10.223
 arrow==0.4.2
 beautifulsoup4==4.3.2
-bottle==0.12.2
+bottle==0.12.19
 config==0.3.9
 daemonize==2.2.1
 dnspython==1.11.1
