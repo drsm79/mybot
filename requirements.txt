@@ -19,5 +19,5 @@ pyimgur==0.5.2
 python-dateutil==2.2
 requests==2.20.0
 six==1.5.2
-waitress==1.4.3
+waitress==2.1.1
 wsgiref==0.1.2
